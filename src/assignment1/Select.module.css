@@ -1,0 +1,18 @@
+.select {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    transition: 0.3s;
+    font-size: 12px;
+    font-family: "Arial";
+    
+}
+
+.select:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+}
+
+.select-selected {
+    background-color: DodgerBlue;
+  }
